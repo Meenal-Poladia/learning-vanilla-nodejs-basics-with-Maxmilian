@@ -1,0 +1,19 @@
+{
+  "name": "learning-node-basics-with-maxmilian",
+  "version": "1.0.0",
+  "description": "learning node basics",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "keywords": [
+    "node",
+    "javascript"
+  ],
+  "author": "Meenal Poladia",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  }
+}
